@@ -8,7 +8,7 @@ setup(
     description="A package to convert audio files to text.",
     author="Anudeep Saty Sai",
     author_email="eadaradeepu74@gmail.com",
-    url="https://github.com/AnudeepSatyaSai/audionest",  # Update with your actual URL
+    url="https://github.com/AnudeepSatyaSai/audionest", 
     packages=find_packages(),
     install_requires=[
         "pydub",
